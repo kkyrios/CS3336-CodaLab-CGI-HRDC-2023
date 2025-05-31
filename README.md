@@ -10,6 +10,7 @@ Mix 为构建融合模型的目录
 
 Draw 为项目报告中结果可视化的程序
 
+由于模型权重文件较大，因此上传至网盘，可以通过以下链接下载完整文件：<https://pan.quark.cn/s/042732a1c92d>
 # 结果
 项目构建的模型得分在CodaLab中排名第一
 ![top1](https://github.com/user-attachments/assets/59fcd17e-3c2b-4717-b376-476435bcdf8c)
