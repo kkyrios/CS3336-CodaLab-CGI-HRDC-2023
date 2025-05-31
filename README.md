@@ -9,3 +9,7 @@ DenseNet、EfficientNet、ResNet 为训练各子模型的目录
 Mix 为构建融合模型的目录
 
 Draw 为项目报告中结果可视化的程序
+
+# 结果
+项目构建的模型得分在CodaLab中排名第一
+![top1](https://github.com/user-attachments/assets/59fcd17e-3c2b-4717-b376-476435bcdf8c)
